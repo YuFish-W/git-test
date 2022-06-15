@@ -7,7 +7,7 @@ public class git {
         System.out.println("hot-fix");
         System.out.println("hot-fix12");
         System.out.println("hello,world3");
-        System.out.println("push test");
+        System.out.println("push test1");
         System.out.println("pull test");
     }
 }
